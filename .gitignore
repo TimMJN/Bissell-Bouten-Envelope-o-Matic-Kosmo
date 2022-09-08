@@ -1,7 +1,6 @@
 
 *.kicad_prl
-KiCad/Bissell-Bouten_Envelope-o-Matic.round-tracks-config
-KiCad\Bissell-Bouten_Envelope-o-Matic-backups\*
-KiCad\Bissell-Bouten_Envelope-o-Matic_panel-backups\*
+KiCad/*.round-tracks-config
+KiCad/*-backups/*
 KiCad/fp-info-cache
 *.debug
