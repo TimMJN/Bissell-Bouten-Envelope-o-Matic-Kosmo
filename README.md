@@ -2,7 +2,12 @@
 
  This is a Kosmo adaptation of the Bissell-Bouten Envelope-o-Matic envelope follower. This repository only contains files for the control board and the front panel. It requires the main circuit board to function, please refer to the original repository of Jos Bouten.
 
-View the [schematics](schematic/Bissell-Bouten_Envelope-o-Matic_schematic.pdf) and [bill of materials](https://htmlpreview.github.io/?https://github.com/TimMJN/Bissell-Bouten-Envelope-o-Matic-Kosmo/blob/main/schematic/Bissell-Bouten_Envelope-o-Matic_BOM.html) on this repository.
+ ## Contents:
+ - [Schematics](schematic/Bissell-Bouten_Envelope-o-Matic_schematic.pdf)
+ - [Bill of materials](https://htmlpreview.github.io/?https://github.com/TimMJN/Bissell-Bouten-Envelope-o-Matic-Kosmo/blob/main/schematic/Bissell-Bouten_Envelope-o-Matic_BOM.html)
+ - [KiCad 6 files](KiCad/)
+ - [Gerber files](gerber/)
+ - [Build photos](build_photos/)
 
  # License
  All designs in this repository are released under GPL-3.0 licence. Feel free to use and adapt them to your heart's desire. The only ask to refrain from mass-production and commercialisation of PCBs/modules, as I rely on PCB sales for funding new module designs. If you use (parts of) my designs in your own modules, please credit me on your schematics and PCBs to help users find the original creator. I call upon your good conscience to make fair use of my work shared here.
