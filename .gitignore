@@ -1,6 +1,6 @@
 
 *.kicad_prl
-KiCad/*.round-tracks-config
-KiCad/*-backups/*
-KiCad/fp-info-cache
+*.round-tracks-config
+KiCad/*/*-backups/*
+*fp-info-cache
 *.debug
