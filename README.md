@@ -1,6 +1,6 @@
 # Bissell-Bouten Envelope-o-Matic-Kosmo
 
- This is a Kosmo adaptation of the Bissell-Bouten Envelope-o-Matic envelope follower. This repository only contains files for the control board and the front panel. It requires the main circuit board to function, please refer to the original repository of Jos Bouten.
+ This is a Kosmo adaptation of the Bissell-Bouten Envelope-o-Matic envelope follower. This repository only contains files for the control board and the front panel. It requires the main circuit board to function, please refer to [the original repository of Jos Bouten](https://github.com/josbouten/Bissel-Bouten-Envelope-O-Matic).
 
  ## Contents:
  - [Schematics](schematic/Bissell-Bouten_Envelope-o-Matic_schematic.pdf)
